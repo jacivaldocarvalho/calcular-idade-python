@@ -31,7 +31,7 @@ O programa está preparado para lidar com entradas inválidas, como:
 
 3. **Abra o terminal e navegue até o diretório do arquivo e execute o programa:**
    ```bash
-   python calculadora_idade.py
+   python calcular_idade.py
    ```
 ## Exemplo de Uso
   ```bash
