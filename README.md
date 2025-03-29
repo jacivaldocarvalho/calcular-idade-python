@@ -1,4 +1,4 @@
-# Calculadora de Idade - Python
+# Calculadora de Idade usando Python
 
 Este repositório contém um simples código em Python que calcula a idade de uma pessoa com base no seu ano de nascimento. O código foi desenvolvido para fins de aprendizado e análise do funcionamento básico de entradas, saídas e cálculos em Python.
 
